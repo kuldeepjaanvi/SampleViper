@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser",
+        "state": {
+          "branch": null,
+          "revision": "83b23d940471b313427da226196661856f6ba3e0",
+          "version": "0.4.4"
+        }
+      },
+      {
+        "package": "VIPER",
+        "repositoryURL": "https://github.com/thomverbeek/VIPER",
+        "state": {
+          "branch": null,
+          "revision": "22e9b949c668716035102027cecf6b209aec029e",
+          "version": "0.6.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
